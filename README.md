@@ -3,13 +3,13 @@
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
 
 Create React apps with no build configuration.
-
+ddazdazdaz
 - [Creating an App](#creating-an-app) – How to create a new app.
-- [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
+- [User Guide](https://facebook.github.io/create-reacdzadzadazt-app/) – How to develop apps bootstrapped with Create React App.
 
-Create React App works on macOS, Windows, and Linux.<br>
+Create React App works on macOS, Windows, and Linux.<br>dzadazdazdaz
 If something doesn’t work, please [file an issue](https://github.com/facebook/create-react-app/issues/new).<br>
-If you have questions or need help, please ask in [GitHub Discussions](https://github.com/facebook/create-react-app/discussions).
+If you have questions or need help, please ask in [GitHub Discussions](https://github.com/fadzadazdazcebook/create-react-app/discussions).
 
 ## Quick Overview
 
@@ -17,7 +17,7 @@ If you have questions or need help, please ask in [GitHub Discussions](https://g
 npx create-react-app my-app
 cd my-app
 npm start
-```
+```dazdazdaz
 
 If you've previously installed `create-react-app` globally via `dzadnpm install -g create-react-app`, we recommend you uninstall the package using `npm uninstall -g create-react-app` or `yarn global remove create-react-app` to ensure that npx always uses the latest version.
 
